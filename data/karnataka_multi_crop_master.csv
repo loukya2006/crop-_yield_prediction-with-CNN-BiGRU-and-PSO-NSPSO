@@ -1,0 +1,126 @@
+crop,year,district,season,soil_type,nitrogen,phosphorus,potassium,ph,temperature,rainfall,humidity,yield_tonnes_per_hectare
+Coffee,2000,Chikkamagaluru,Year-round,Red soil,148,59,98,5.6,23.0,1524,81.4,1.17
+Coffee,2001,Chikkamagaluru,Year-round,Red soil,110,71,88,5.4,22.5,2252,75.6,1.19
+Coffee,2002,Chikkamagaluru,Year-round,Red soil,137,67,99,5.6,23.4,2132,75.2,1.25
+Coffee,2003,Chikkamagaluru,Year-round,Red soil,154,71,95,5.3,23.1,1814,76.9,1.18
+Coffee,2004,Chikkamagaluru,Year-round,Red soil,128,66,82,5.9,23.7,1963,87.0,1.18
+Coffee,2005,Chikkamagaluru,Year-round,Red soil,141,74,88,5.9,21.3,1704,85.9,1.25
+Coffee,2006,Chikkamagaluru,Year-round,Red soil,155,60,94,5.2,22.7,1761,82.6,1.21
+Coffee,2007,Chikkamagaluru,Year-round,Red soil,128,71,84,5.2,23.2,1976,77.7,1.25
+Coffee,2008,Chikkamagaluru,Year-round,Red soil,148,70,104,5.4,22.2,2251,84.2,1.26
+Coffee,2009,Chikkamagaluru,Year-round,Red soil,159,71,85,5.6,22.2,1331,72.6,1.24
+Coffee,2010,Chikkamagaluru,Year-round,Red soil,144,74,90,5.8,24.3,1787,83.0,1.28
+Coffee,2011,Chikkamagaluru,Year-round,Red soil,156,64,80,5.5,23.4,2149,80.6,1.32
+Coffee,2012,Chikkamagaluru,Year-round,Red soil,139,66,82,5.8,22.3,1507,89.6,1.25
+Coffee,2013,Chikkamagaluru,Year-round,Red soil,136,76,99,5.3,24.3,1464,82.7,1.32
+Coffee,2014,Chikkamagaluru,Year-round,Red soil,145,72,115,5.5,22.7,2238,78.2,1.29
+Coffee,2015,Chikkamagaluru,Year-round,Red soil,126,71,91,5.6,22.3,1749,81.0,1.34
+Coffee,2016,Chikkamagaluru,Year-round,Red soil,151,59,94,5.4,22.4,2538,77.0,1.41
+Coffee,2017,Chikkamagaluru,Year-round,Red soil,140,75,93,5.4,22.5,2192,81.8,1.36
+Coffee,2018,Chikkamagaluru,Year-round,Red soil,127,68,104,5.7,23.4,1944,78.2,1.31
+Coffee,2019,Chikkamagaluru,Year-round,Red soil,151,70,115,5.7,23.0,1874,83.2,1.35
+Coffee,2020,Chikkamagaluru,Year-round,Red soil,147,57,99,5.8,23.2,1852,84.1,1.4
+Coffee,2021,Chikkamagaluru,Year-round,Red soil,137,67,95,5.2,22.6,1830,75.3,1.47
+Coffee,2022,Chikkamagaluru,Year-round,Red soil,134,54,104,5.9,23.4,1760,86.0,1.39
+Coffee,2023,Chikkamagaluru,Year-round,Red soil,144,70,102,6.0,22.4,1442,68.6,1.35
+Coffee,2024,Chikkamagaluru,Year-round,Red soil,124,66,94,6.0,23.2,1739,74.6,1.4
+Jowar,2000,Vijayapura,Winter (Cool Season),Black cotton,78,38,31,8.0,25.3,116,49.3,1.38
+Jowar,2001,Vijayapura,Winter (Cool Season),Black cotton,71,32,28,7.9,25.8,147,51.8,1.51
+Jowar,2002,Vijayapura,Winter (Cool Season),Black cotton,79,38,33,7.6,25.5,294,49.5,1.56
+Jowar,2003,Vijayapura,Winter (Cool Season),Black cotton,75,46,26,8.0,24.5,339,57.2,1.55
+Jowar,2004,Vijayapura,Winter (Cool Season),Black cotton,64,32,26,7.9,26.0,145,54.3,1.44
+Jowar,2005,Vijayapura,Winter (Cool Season),Black cotton,82,41,29,7.4,25.6,291,60.5,1.53
+Jowar,2006,Vijayapura,Winter (Cool Season),Black cotton,74,41,26,7.9,26.8,293,53.1,1.47
+Jowar,2007,Vijayapura,Winter (Cool Season),Black cotton,79,37,32,8.1,25.9,522,46.1,1.66
+Jowar,2008,Vijayapura,Winter (Cool Season),Black cotton,88,40,29,8.4,26.8,199,58.3,1.58
+Jowar,2009,Vijayapura,Winter (Cool Season),Black cotton,77,35,33,7.6,26.7,225,53.2,1.57
+Jowar,2010,Vijayapura,Winter (Cool Season),Black cotton,67,44,25,7.9,25.6,194,61.8,1.55
+Jowar,2011,Vijayapura,Winter (Cool Season),Black cotton,70,45,25,8.0,25.7,344,59.3,1.6
+Jowar,2012,Vijayapura,Winter (Cool Season),Black cotton,68,34,32,8.1,25.5,362,40.0,1.6
+Jowar,2013,Vijayapura,Winter (Cool Season),Black cotton,65,37,25,7.7,25.6,257,43.1,1.56
+Jowar,2014,Vijayapura,Winter (Cool Season),Black cotton,77,39,31,8.0,26.7,399,55.1,1.58
+Jowar,2015,Vijayapura,Winter (Cool Season),Black cotton,78,35,26,7.8,25.5,446,48.3,1.72
+Jowar,2016,Vijayapura,Winter (Cool Season),Black cotton,67,39,29,7.9,25.6,241,41.5,1.58
+Jowar,2017,Vijayapura,Winter (Cool Season),Black cotton,76,34,31,7.8,25.3,322,51.7,1.72
+Jowar,2018,Vijayapura,Winter (Cool Season),Black cotton,79,40,28,8.0,27.3,263,62.7,1.62
+Jowar,2019,Vijayapura,Winter (Cool Season),Black cotton,70,37,25,7.8,25.7,228,58.8,1.72
+Jowar,2020,Vijayapura,Winter (Cool Season),Black cotton,72,38,27,8.0,25.9,241,49.6,1.74
+Jowar,2021,Vijayapura,Winter (Cool Season),Black cotton,79,40,31,7.9,25.2,260,56.7,1.78
+Jowar,2022,Vijayapura,Winter (Cool Season),Black cotton,66,42,29,8.1,26.2,176,61.0,1.71
+Jowar,2023,Vijayapura,Winter (Cool Season),Black cotton,69,34,30,8.3,25.3,272,53.8,1.71
+Jowar,2024,Vijayapura,Winter (Cool Season),Black cotton,82,41,28,7.9,25.4,343,65.6,1.77
+Maize,2000,Davanagere,Monsoon (Rainy),Red soil,167,64,41,6.7,26.6,615,65.0,4.65
+Maize,2001,Davanagere,Monsoon (Rainy),Red soil,151,56,49,6.7,26.5,696,65.1,5.21
+Maize,2002,Davanagere,Monsoon (Rainy),Red soil,154,58,40,6.9,27.5,760,66.5,4.84
+Maize,2003,Davanagere,Monsoon (Rainy),Red soil,164,67,44,6.9,26.8,560,66.3,4.72
+Maize,2004,Davanagere,Monsoon (Rainy),Red soil,160,60,41,6.5,25.5,717,71.4,5.25
+Maize,2005,Davanagere,Monsoon (Rainy),Red soil,157,58,47,6.9,25.5,667,80.6,5.28
+Maize,2006,Davanagere,Monsoon (Rainy),Red soil,145,61,46,6.3,25.8,578,70.7,5.1
+Maize,2007,Davanagere,Monsoon (Rainy),Red soil,138,60,34,6.8,24.9,489,73.0,4.86
+Maize,2008,Davanagere,Monsoon (Rainy),Red soil,155,57,49,6.3,24.8,605,75.3,5.33
+Maize,2009,Davanagere,Monsoon (Rainy),Red soil,144,61,42,6.5,28.2,950,70.7,5.26
+Maize,2010,Davanagere,Monsoon (Rainy),Red soil,160,71,55,6.8,25.9,490,72.4,5.04
+Maize,2011,Davanagere,Monsoon (Rainy),Red soil,153,65,49,6.4,27.5,580,73.9,4.7
+Maize,2012,Davanagere,Monsoon (Rainy),Red soil,141,62,50,6.7,25.9,494,74.1,4.93
+Maize,2013,Davanagere,Monsoon (Rainy),Red soil,153,61,33,6.2,26.2,762,68.5,5.05
+Maize,2014,Davanagere,Monsoon (Rainy),Red soil,159,64,54,6.4,25.2,813,70.7,5.57
+Maize,2015,Davanagere,Monsoon (Rainy),Red soil,152,63,45,6.7,27.5,758,76.5,5.49
+Maize,2016,Davanagere,Monsoon (Rainy),Red soil,141,56,38,7.0,26.2,834,70.0,5.53
+Maize,2017,Davanagere,Monsoon (Rainy),Red soil,153,63,47,6.3,27.8,590,70.7,5.12
+Maize,2018,Davanagere,Monsoon (Rainy),Red soil,154,60,51,7.0,26.0,798,73.4,5.57
+Maize,2019,Davanagere,Monsoon (Rainy),Red soil,160,69,37,6.7,27.5,502,74.0,5.08
+Maize,2020,Davanagere,Monsoon (Rainy),Red soil,159,59,50,7.2,27.7,784,70.3,5.49
+Maize,2021,Davanagere,Monsoon (Rainy),Red soil,139,66,44,6.5,25.3,776,74.7,5.53
+Maize,2022,Davanagere,Monsoon (Rainy),Red soil,144,54,42,6.5,26.9,525,71.9,4.96
+Maize,2023,Davanagere,Monsoon (Rainy),Red soil,157,62,43,6.7,25.7,711,65.4,5.98
+Maize,2024,Davanagere,Monsoon (Rainy),Red soil,130,56,41,6.3,25.6,471,75.1,5.53
+Ragi,2000,Mysuru,Monsoon (Rainy),Red soil,45,28,28,6.3,25.5,374,68.7,2.14
+Ragi,2001,Mysuru,Monsoon (Rainy),Red soil,46,36,27,6.5,25.1,547,84.7,2.25
+Ragi,2002,Mysuru,Monsoon (Rainy),Red soil,45,31,27,6.5,25.5,539,67.0,2.17
+Ragi,2003,Mysuru,Monsoon (Rainy),Red soil,49,27,28,6.1,26.3,366,72.0,2.11
+Ragi,2004,Mysuru,Monsoon (Rainy),Red soil,59,27,20,6.6,25.0,536,71.9,2.28
+Ragi,2005,Mysuru,Monsoon (Rainy),Red soil,44,36,24,6.5,26.1,402,65.6,2.12
+Ragi,2006,Mysuru,Monsoon (Rainy),Red soil,57,28,26,6.5,26.3,450,76.0,2.2
+Ragi,2007,Mysuru,Monsoon (Rainy),Red soil,58,34,19,6.3,26.0,439,77.3,2.19
+Ragi,2008,Mysuru,Monsoon (Rainy),Red soil,50,34,21,5.7,26.8,610,74.8,2.37
+Ragi,2009,Mysuru,Monsoon (Rainy),Red soil,48,23,30,6.8,25.4,429,72.3,2.26
+Ragi,2010,Mysuru,Monsoon (Rainy),Red soil,54,34,22,6.4,26.1,485,71.2,2.33
+Ragi,2011,Mysuru,Monsoon (Rainy),Red soil,58,29,24,5.9,27.5,540,63.2,2.46
+Ragi,2012,Mysuru,Monsoon (Rainy),Red soil,63,27,26,6.6,25.5,633,73.2,2.45
+Ragi,2013,Mysuru,Monsoon (Rainy),Red soil,56,28,24,6.2,25.4,650,65.8,2.52
+Ragi,2014,Mysuru,Monsoon (Rainy),Red soil,60,32,22,6.6,25.5,408,67.2,2.31
+Ragi,2015,Mysuru,Monsoon (Rainy),Red soil,50,31,23,6.4,26.0,650,74.0,2.41
+Ragi,2016,Mysuru,Monsoon (Rainy),Red soil,48,31,24,6.7,25.0,553,76.6,2.49
+Ragi,2017,Mysuru,Monsoon (Rainy),Red soil,43,28,23,6.5,25.3,651,67.7,2.46
+Ragi,2018,Mysuru,Monsoon (Rainy),Red soil,46,34,26,6.5,24.1,636,77.7,2.44
+Ragi,2019,Mysuru,Monsoon (Rainy),Red soil,50,35,30,6.4,24.7,461,80.8,2.38
+Ragi,2020,Mysuru,Monsoon (Rainy),Red soil,53,36,26,6.7,24.7,524,72.9,2.56
+Ragi,2021,Mysuru,Monsoon (Rainy),Red soil,45,33,30,6.1,24.6,488,71.6,2.44
+Ragi,2022,Mysuru,Monsoon (Rainy),Red soil,56,36,27,6.7,25.1,561,73.0,2.63
+Ragi,2023,Mysuru,Monsoon (Rainy),Red soil,51,36,28,6.6,26.1,702,70.0,2.62
+Ragi,2024,Mysuru,Monsoon (Rainy),Red soil,49,32,27,6.3,25.2,526,67.7,2.53
+Rice,2000,Mandya,Monsoon (Rainy),Clay,115,52,61,7.2,26.5,914,78.9,4.1
+Rice,2001,Mandya,Monsoon (Rainy),Clay,126,53,58,6.5,27.3,753,82.3,3.94
+Rice,2002,Mandya,Monsoon (Rainy),Clay,125,50,58,7.0,27.2,888,80.3,4.1
+Rice,2003,Mandya,Monsoon (Rainy),Clay,111,49,57,6.9,26.9,687,75.4,3.84
+Rice,2004,Mandya,Monsoon (Rainy),Clay,113,55,59,6.8,26.8,799,75.1,4.08
+Rice,2005,Mandya,Monsoon (Rainy),Clay,111,59,50,6.6,26.1,429,86.0,3.84
+Rice,2006,Mandya,Monsoon (Rainy),Clay,120,54,57,7.1,26.7,533,81.0,4.03
+Rice,2007,Mandya,Monsoon (Rainy),Clay,115,52,57,6.5,27.8,869,85.3,3.91
+Rice,2008,Mandya,Monsoon (Rainy),Clay,121,57,48,6.9,26.9,661,86.5,4.2
+Rice,2009,Mandya,Monsoon (Rainy),Clay,100,58,56,7.1,26.0,746,74.7,4.09
+Rice,2010,Mandya,Monsoon (Rainy),Clay,128,54,54,6.5,27.9,831,79.5,4.13
+Rice,2011,Mandya,Monsoon (Rainy),Clay,114,57,58,6.7,27.4,948,79.8,4.26
+Rice,2012,Mandya,Monsoon (Rainy),Clay,120,59,53,6.5,28.5,872,80.2,4.11
+Rice,2013,Mandya,Monsoon (Rainy),Clay,114,54,55,6.8,27.0,903,80.2,4.36
+Rice,2014,Mandya,Monsoon (Rainy),Clay,112,52,56,7.1,26.7,733,78.8,4.18
+Rice,2015,Mandya,Monsoon (Rainy),Clay,119,56,51,7.2,26.0,645,78.7,4.21
+Rice,2016,Mandya,Monsoon (Rainy),Clay,122,56,57,6.4,27.9,640,72.0,4.07
+Rice,2017,Mandya,Monsoon (Rainy),Clay,113,59,55,6.7,28.8,677,77.3,4.21
+Rice,2018,Mandya,Monsoon (Rainy),Clay,114,50,57,6.9,26.4,581,75.0,4.28
+Rice,2019,Mandya,Monsoon (Rainy),Clay,120,52,53,7.1,26.5,668,78.5,4.27
+Rice,2020,Mandya,Monsoon (Rainy),Clay,108,52,59,6.9,27.4,736,76.1,4.28
+Rice,2021,Mandya,Monsoon (Rainy),Clay,103,48,57,6.7,26.4,788,80.5,4.23
+Rice,2022,Mandya,Monsoon (Rainy),Clay,118,56,54,6.9,26.8,699,81.3,4.67
+Rice,2023,Mandya,Monsoon (Rainy),Clay,110,57,58,6.8,26.8,461,79.2,4.05
+Rice,2024,Mandya,Monsoon (Rainy),Clay,100,52,60,6.8,27.1,739,79.3,4.4

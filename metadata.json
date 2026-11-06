@@ -1,0 +1,6 @@
+{
+  "name": "Crop Yield Prediction - CNN-BiGRU PSO",
+  "description": "AI-Powered Crop Yield Prediction using CNN-BiGRU optimized by hybrid PSO-NSPSO framework on Karnataka agricultural data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
